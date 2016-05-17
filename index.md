@@ -43,7 +43,7 @@ Reply
 ```
 
 ```
-## [1] "That date was 314 day(s) ago."
+## [1] "That date was 319 day(s) ago."
 ```
 
 
@@ -69,7 +69,7 @@ until this date?
 ```
 
 ```
-## [1] "That date is 155 day(s) away."
+## [1] "That date is 150 day(s) away."
 ```
 
 
@@ -81,7 +81,7 @@ until this date?
 3. Rememember Bob's example. The number of days Bob has left until his goal date is: 
       
       ```
-      ## [1] "155"
+      ## [1] "150"
       ```
 3. Good Luck working toward your goal(s)!!!
 

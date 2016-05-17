@@ -17,7 +17,7 @@ knit        : slidify::knit2slides
         a. Weight loss
         b. Finish Coursera certificate
         c. Submit article
-    2. Pace your event planning
+    2. Pacing your event planning
         a. Anniversaries, birthdays, graduations
     3. Keeping yourself in check - How long has it actually been since...
         a. Making those New Year resolutions
